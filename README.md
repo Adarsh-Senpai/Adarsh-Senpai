@@ -25,7 +25,7 @@ I have experience working on **full-stack web projects** and enjoy solving real-
 ---
 
 ## 🚀 Featured Project  
-### [Health_Tracker (https://github.com/Adarsh-Senpai/Health_Tracker)]
+### [Health_Tracker](https://github.com/Adarsh-Senpai/Health_Tracker)
 - Health Tracker is a responsive web application designed to help users monitor and manage their health efficiently. It includes calorie tracking, workout timers, BMI calculation, diet plans, sleep analysis, and a stopwatch — all in one place. 
 - Technologies: HTML, CSS, JavaScript, PHP, MySQL
 - Focused on performance optimization and responsive UI  
