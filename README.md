@@ -25,9 +25,9 @@ I have experience working on **full-stack web projects** and enjoy solving real-
 ---
 
 ## 🚀 Featured Project  
-### [CRAWINGS – Cloud Kitchen Food Delivery Website](https://github.com/your-repo-link)
-- Developed an online food ordering platform with **real-time order tracking** and **secure payment integration**  
-- Technologies: HTML, CSS, JavaScript, Node.js/PHP, MySQL/MongoDB  
+### [Health_Tracker][(https://github.com/Adarsh-Senpai/Health_Tracker)]
+- Health Tracker is a responsive web application designed to help users monitor and manage their health efficiently. It includes calorie tracking, workout timers, BMI calculation, diet plans, sleep analysis, and a stopwatch — all in one place. 
+- Technologies: HTML, CSS, JavaScript, PHP, MySQL
 - Focused on performance optimization and responsive UI  
 
 ---
